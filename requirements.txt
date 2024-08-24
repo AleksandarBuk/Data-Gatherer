@@ -1,0 +1,5 @@
+bs4==0.0.2
+requests==2.32.3
+selenium==4.23.1
+pandas==2.2.2
+openpyxl==3.1.5
